@@ -1,0 +1,2 @@
+# ProjetoSolucaoEFCore
+ 
